@@ -1,0 +1,54 @@
+{
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "category": "Oils & Fats",
+      "quantity": 5,
+      "unit": "l",
+      "unitPrice": 8.50,
+      "parLevel": 2,
+      "maxLevel": 10,
+      "supplier": "Premium Foods Co"
+    },
+    {
+      "name": "Butter",
+      "category": "Dairy",
+      "quantity": 3,
+      "unit": "kg",
+      "unitPrice": 12.00,
+      "parLevel": 2,
+      "maxLevel": 5,
+      "supplier": "Dairy Direct"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "category": "Dry Goods",
+      "quantity": 10,
+      "unit": "kg",
+      "unitPrice": 1.20,
+      "parLevel": 5,
+      "maxLevel": 20,
+      "supplier": "Grain Masters"
+    },
+    {
+      "name": "Granulated Sugar",
+      "category": "Dry Goods",
+      "quantity": 5,
+      "unit": "kg",
+      "unitPrice": 1.50,
+      "parLevel": 3,
+      "maxLevel": 10,
+      "supplier": "Sweet Supply"
+    },
+    {
+      "name": "Sea Salt",
+      "category": "Spices",
+      "quantity": 2,
+      "unit": "kg",
+      "unitPrice": 2.00,
+      "parLevel": 1,
+      "maxLevel": 3,
+      "supplier": "Spice World"
+    }
+  ]
+}

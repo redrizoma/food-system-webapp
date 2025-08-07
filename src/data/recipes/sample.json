@@ -1,0 +1,39 @@
+{
+  "name": "Caesar Salad",
+  "category": "Appetizer",
+  "portions": 4,
+  "ingredients": [
+    {
+      "name": "Romaine Lettuce",
+      "quantity": 200,
+      "unit": "g",
+      "unitPrice": 0.005,
+      "yieldPercentage": 85
+    },
+    {
+      "name": "Parmesan Cheese",
+      "quantity": 50,
+      "unit": "g",
+      "unitPrice": 0.025,
+      "yieldPercentage": 100
+    },
+    {
+      "name": "Croutons",
+      "quantity": 40,
+      "unit": "g",
+      "unitPrice": 0.008,
+      "yieldPercentage": 100
+    },
+    {
+      "name": "Caesar Dressing",
+      "quantity": 80,
+      "unit": "ml",
+      "unitPrice": 0.015,
+      "yieldPercentage": 100
+    }
+  ],
+  "spiceFactor": 0.02,
+  "qFactor": 0.03,
+  "targetFoodCost": 30,
+  "createdAt": "2024-01-01T00:00:00.000Z"
+}
